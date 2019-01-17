@@ -1,0 +1,12 @@
+
+.result {
+  background-color: #858694;
+  color: white;
+  flex: 0 0 auto;
+  height:50px;
+}
+  
+
+.result p {
+  font-size: 2.5rem;
+}
